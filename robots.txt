@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/neurorecall/sitemap.xml
+Sitemap: https://neurorecall.vercel.app/sitemap-vercel.xml
+Sitemap: https://neurorecall.pages.dev/sitemap-cloudflare.xml
